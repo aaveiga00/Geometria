@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.7)  8 NOV 2020 23:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.7)  9 NOV 2020 21:52
 entering extended mode
 **"c:/Users/chris/OneDrive/Documentos/Latex/Geometria/Soluciones Teorema Geometria.tex"
 ("c:/Users/chris/OneDrive/Documentos/Latex/Geometria/Soluciones Teorema Geometria.tex"
@@ -245,30 +245,30 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
  ("C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<demo1.png, id=1, 285.76147pt x 176.80339pt>
-File: demo1.png Graphic file (type png)
-<use demo1.png>
-Package pdftex.def Info: demo1.png  used on input line 28.
+<Imagenes/demo1.png, id=1, 285.76147pt x 176.80339pt>
+File: Imagenes/demo1.png Graphic file (type png)
+<use Imagenes/demo1.png>
+Package pdftex.def Info: Imagenes/demo1.png  used on input line 28.
 (pdftex.def)             Requested size: 200.03166pt x 123.76152pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 30--38
 [] 
  []
 
-<demo2.png, id=3, 293.32033pt x 185.83714pt>
-File: demo2.png Graphic file (type png)
-<use demo2.png>
-Package pdftex.def Info: demo2.png  used on input line 43.
+<Imagenes/demo2.png, id=3, 293.32033pt x 185.83714pt>
+File: Imagenes/demo2.png Graphic file (type png)
+<use Imagenes/demo2.png>
+Package pdftex.def Info: Imagenes/demo2.png  used on input line 43.
 (pdftex.def)             Requested size: 205.32281pt x 130.0851pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 45--59
 [] 
  []
 
-<image001.png, id=4, 309.40594pt x 164.11313pt>
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 59.
+<Imagenes/image001.png, id=4, 309.40594pt x 164.11313pt>
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 59.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -278,120 +278,120 @@ This may cause the page layout to be inconsistent, however.
 
 [1{C:/Users/chris/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
- <./image001.png> <./demo1.png> <./demo2.png>]
+ <./Imagenes/image001.png> <./Imagenes/demo1.png> <./Imagenes/demo2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
-<demo3.png, id=18, 604.61816pt x 456.6484pt>
-File: demo3.png Graphic file (type png)
-<use demo3.png>
-Package pdftex.def Info: demo3.png  used on input line 63.
+<Imagenes/demo3.png, id=18, 604.61816pt x 456.6484pt>
+File: Imagenes/demo3.png Graphic file (type png)
+<use Imagenes/demo3.png>
+Package pdftex.def Info: Imagenes/demo3.png  used on input line 63.
 (pdftex.def)             Requested size: 272.07565pt x 205.48988pt.
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 73.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 73.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
-[2 <./demo3.png>]
-<thales 1.png, id=24, 358.16522pt x 274.13603pt>
-File: thales 1.png Graphic file (type png)
-<use thales 1.png>
-Package pdftex.def Info: thales 1.png  used on input line 76.
+[2 <./Imagenes/demo3.png>]
+<Imagenes/thales 1.png, id=24, 358.16522pt x 274.13603pt>
+File: Imagenes/thales 1.png Graphic file (type png)
+<use Imagenes/thales 1.png>
+Package pdftex.def Info: Imagenes/thales 1.png  used on input line 76.
 (pdftex.def)             Requested size: 214.90079pt x 164.48288pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 78--89
 [] 
  []
 
-<thales1.1.png, id=25, 369.43445pt x 270.95125pt>
-File: thales1.1.png Graphic file (type png)
-<use thales1.1.png>
-Package pdftex.def Info: thales1.1.png  used on input line 94.
+<Imagenes/thales1.1.png, id=25, 369.43445pt x 270.95125pt>
+File: Imagenes/thales1.1.png Graphic file (type png)
+<use Imagenes/thales1.1.png>
+Package pdftex.def Info: Imagenes/thales1.1.png  used on input line 94.
 (pdftex.def)             Requested size: 221.66237pt x 162.57199pt.
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 95.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 95.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
-[3 <./thales 1.png>]
+[3 <./Imagenes/thales 1.png>]
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 96--104
 [] 
  []
 
-<thales.png, id=30, 299.34677pt x 247.20769pt>
-File: thales.png Graphic file (type png)
-<use thales.png>
-Package pdftex.def Info: thales.png  used on input line 107.
+<Imagenes/thales.png, id=30, 299.34677pt x 247.20769pt>
+File: Imagenes/thales.png Graphic file (type png)
+<use Imagenes/thales.png>
+Package pdftex.def Info: Imagenes/thales.png  used on input line 107.
 (pdftex.def)             Requested size: 179.60944pt x 148.32574pt.
-<thales2.png, id=31, 313.43842pt x 224.05713pt>
-File: thales2.png Graphic file (type png)
-<use thales2.png>
-Package pdftex.def Info: thales2.png  used on input line 111.
+<Imagenes/thales2.png, id=31, 313.43842pt x 224.05713pt>
+File: Imagenes/thales2.png Graphic file (type png)
+<use Imagenes/thales2.png>
+Package pdftex.def Info: Imagenes/thales2.png  used on input line 111.
 (pdftex.def)             Requested size: 188.06448pt x 134.4353pt.
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 112.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 112.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
-[4 <./thales1.1.png> <./thales.png>]
+[4 <./Imagenes/thales1.1.png> <./Imagenes/thales.png>]
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 113--123
 [] 
  []
 
-<semejanza.png, id=37, 421.04314pt x 173.07257pt>
-File: semejanza.png Graphic file (type png)
-<use semejanza.png>
-Package pdftex.def Info: semejanza.png  used on input line 127.
+<Imagenes/semejanza.png, id=37, 421.04314pt x 173.07257pt>
+File: Imagenes/semejanza.png Graphic file (type png)
+<use Imagenes/semejanza.png>
+Package pdftex.def Info: Imagenes/semejanza.png  used on input line 127.
 (pdftex.def)             Requested size: 336.83496pt x 138.45824pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 129--143
 [] 
  []
 
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 143.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 143.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
-[5 <./thales2.png> <./semejanza.png>]
-File: semejanza.png Graphic file (type png)
-<use semejanza.png>
-Package pdftex.def Info: semejanza.png  used on input line 147.
+[5 <./Imagenes/thales2.png> <./Imagenes/semejanza.png>]
+File: Imagenes/semejanza.png Graphic file (type png)
+<use Imagenes/semejanza.png>
+Package pdftex.def Info: Imagenes/semejanza.png  used on input line 147.
 (pdftex.def)             Requested size: 336.83496pt x 138.45824pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 149--161
 [] 
  []
 
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 161.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 161.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
 [6]
-File: semejanza.png Graphic file (type png)
-<use semejanza.png>
-Package pdftex.def Info: semejanza.png  used on input line 166.
+File: Imagenes/semejanza.png Graphic file (type png)
+<use Imagenes/semejanza.png>
+Package pdftex.def Info: Imagenes/semejanza.png  used on input line 166.
 (pdftex.def)             Requested size: 315.78157pt x 129.80411pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 162--179
 [] 
  []
 
-<pitagoras.png, id=46, 272.9784pt x 166.44568pt>
-File: pitagoras.png Graphic file (type png)
-<use pitagoras.png>
-Package pdftex.def Info: pitagoras.png  used on input line 185.
+<Imagenes/pitagoras.png, id=46, 272.9784pt x 166.44568pt>
+File: Imagenes/pitagoras.png Graphic file (type png)
+<use Imagenes/pitagoras.png>
+Package pdftex.def Info: Imagenes/pitagoras.png  used on input line 185.
 (pdftex.def)             Requested size: 218.383pt x 133.15671pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 180--198
 [] 
  []
 
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 198.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 198.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
 [7]
-File: pitagoras.png Graphic file (type png)
-<use pitagoras.png>
-Package pdftex.def Info: pitagoras.png  used on input line 201.
+File: Imagenes/pitagoras.png Graphic file (type png)
+<use Imagenes/pitagoras.png>
+Package pdftex.def Info: Imagenes/pitagoras.png  used on input line 201.
 (pdftex.def)             Requested size: 218.383pt x 133.15671pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 204--224
@@ -403,75 +403,75 @@ Underfull \hbox (badness 10000) in paragraph at lines 204--224
 
  []
 
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 224.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 224.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
-[8 <./pitagoras.png>]
-<medianas.png, id=55, 325.215pt x 210.25702pt>
-File: medianas.png Graphic file (type png)
-<use medianas.png>
-Package pdftex.def Info: medianas.png  used on input line 228.
+[8 <./Imagenes/pitagoras.png>]
+<Imagenes/medianas.png, id=55, 325.215pt x 210.25702pt>
+File: Imagenes/medianas.png Graphic file (type png)
+<use Imagenes/medianas.png>
+Package pdftex.def Info: Imagenes/medianas.png  used on input line 228.
 (pdftex.def)             Requested size: 260.17235pt x 168.20584pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 230--240
 [] 
  []
 
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 240.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 240.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
-[9 <./medianas.png>]
-<bisectriz.png, id=61, 366.5475pt x 245.7675pt>
-File: bisectriz.png Graphic file (type png)
-<use bisectriz.png>
-Package pdftex.def Info: bisectriz.png  used on input line 246.
+[9 <./Imagenes/medianas.png>]
+<Imagenes/bisectriz.png, id=61, 366.5475pt x 245.7675pt>
+File: Imagenes/bisectriz.png Graphic file (type png)
+<use Imagenes/bisectriz.png>
+Package pdftex.def Info: Imagenes/bisectriz.png  used on input line 246.
 (pdftex.def)             Requested size: 183.27328pt x 122.88344pt.
-<bisectriz1.png, id=62, 363.33pt x 246.7575pt>
-File: bisectriz1.png Graphic file (type png)
-<use bisectriz1.png>
-Package pdftex.def Info: bisectriz1.png  used on input line 247.
+<Imagenes/bisectriz1.png, id=62, 363.33pt x 246.7575pt>
+File: Imagenes/bisectriz1.png Graphic file (type png)
+<use Imagenes/bisectriz1.png>
+Package pdftex.def Info: Imagenes/bisectriz1.png  used on input line 247.
 (pdftex.def)             Requested size: 181.66455pt x 123.37845pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 241--265
 [] 
  []
 
-<mediatriz.png, id=63, 362.52194pt x 245.718pt>
-File: mediatriz.png Graphic file (type png)
-<use mediatriz.png>
-Package pdftex.def Info: mediatriz.png  used on input line 270.
+<Imagenes/mediatriz.png, id=63, 362.52194pt x 245.718pt>
+File: Imagenes/mediatriz.png Graphic file (type png)
+<use Imagenes/mediatriz.png>
+Package pdftex.def Info: Imagenes/mediatriz.png  used on input line 270.
 (pdftex.def)             Requested size: 217.51485pt x 147.43193pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 266--282
 [] 
  []
 
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 282.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 282.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
-[10 <./bisectriz.png> <./bisectriz1.png>]
-<alturas.png, id=70, 299.63834pt x 261.04579pt>
-File: alturas.png Graphic file (type png)
-<use alturas.png>
-Package pdftex.def Info: alturas.png  used on input line 286.
+[10 <./Imagenes/bisectriz.png> <./Imagenes/bisectriz1.png>]
+<Imagenes/alturas.png, id=70, 299.63834pt x 261.04579pt>
+File: Imagenes/alturas.png Graphic file (type png)
+<use Imagenes/alturas.png>
+Package pdftex.def Info: Imagenes/alturas.png  used on input line 286.
 (pdftex.def)             Requested size: 179.78438pt x 156.62866pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 288--296
 [] 
  []
 
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 296.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 296.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
-[11 <./mediatriz.png> <./alturas.png>]
-<circulo.png, id=76, 243.20915pt x 204.07849pt>
-File: circulo.png Graphic file (type png)
-<use circulo.png>
-Package pdftex.def Info: circulo.png  used on input line 301.
+[11 <./Imagenes/mediatriz.png> <./Imagenes/alturas.png>]
+<Imagenes/circulo.png, id=76, 243.20915pt x 204.07849pt>
+File: Imagenes/circulo.png Graphic file (type png)
+<use Imagenes/circulo.png>
+Package pdftex.def Info: Imagenes/circulo.png  used on input line 301.
 (pdftex.def)             Requested size: 145.9266pt x 122.44803pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 303--312
@@ -483,65 +483,65 @@ Underfull \hbox (badness 10000) in paragraph at lines 303--312
 
  []
 
-<circulo 1.png, id=77, 247.5154pt x 229.72873pt>
-File: circulo 1.png Graphic file (type png)
-<use circulo 1.png>
-Package pdftex.def Info: circulo 1.png  used on input line 313.
+<Imagenes/circulo 1.png, id=77, 247.5154pt x 229.72873pt>
+File: Imagenes/circulo 1.png Graphic file (type png)
+<use Imagenes/circulo 1.png>
+Package pdftex.def Info: Imagenes/circulo 1.png  used on input line 313.
 (pdftex.def)             Requested size: 148.51036pt x 137.83829pt.
-<circulo 2.png, id=78, 233.66052pt x 251.07272pt>
-File: circulo 2.png Graphic file (type png)
-<use circulo 2.png>
-Package pdftex.def Info: circulo 2.png  used on input line 324.
+<Imagenes/circulo 2.png, id=78, 233.66052pt x 251.07272pt>
+File: Imagenes/circulo 2.png Graphic file (type png)
+<use Imagenes/circulo 2.png>
+Package pdftex.def Info: Imagenes/circulo 2.png  used on input line 324.
 (pdftex.def)             Requested size: 140.19739pt x 150.64479pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 315--332
 [] 
  []
 
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 332.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 332.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
-[12 <./circulo.png> <./circulo 1.png>]
-<circulo 3.png, id=84, 287.20772pt x 255.94064pt>
-File: circulo 3.png Graphic file (type png)
-<use circulo 3.png>
-Package pdftex.def Info: circulo 3.png  used on input line 336.
+[12 <./Imagenes/circulo.png> <./Imagenes/circulo 1.png>]
+<Imagenes/circulo 3.png, id=84, 287.20772pt x 255.94064pt>
+File: Imagenes/circulo 3.png Graphic file (type png)
+<use Imagenes/circulo 3.png>
+Package pdftex.def Info: Imagenes/circulo 3.png  used on input line 336.
 (pdftex.def)             Requested size: 172.32596pt x 153.56555pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 338--345
 [] 
  []
 
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 345.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 345.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
-[13 <./circulo 2.png> <./circulo 3.png>]
-<ciclico.png, id=91, 237.40508pt x 234.78389pt>
-File: ciclico.png Graphic file (type png)
-<use ciclico.png>
-Package pdftex.def Info: ciclico.png  used on input line 350.
+[13 <./Imagenes/circulo 2.png> <./Imagenes/circulo 3.png>]
+<Imagenes/ciclico.png, id=91, 237.40508pt x 234.78389pt>
+File: Imagenes/ciclico.png Graphic file (type png)
+<use Imagenes/ciclico.png>
+Package pdftex.def Info: Imagenes/ciclico.png  used on input line 350.
 (pdftex.def)             Requested size: 142.44412pt x 140.8714pt.
-<ciclico1.png, id=92, 241.71132pt x 238.15399pt>
-File: ciclico1.png Graphic file (type png)
-<use ciclico1.png>
-Package pdftex.def Info: ciclico1.png  used on input line 351.
+<Imagenes/ciclico1.png, id=92, 241.71132pt x 238.15399pt>
+File: Imagenes/ciclico1.png Graphic file (type png)
+<use Imagenes/ciclico1.png>
+Package pdftex.def Info: Imagenes/ciclico1.png  used on input line 351.
 (pdftex.def)             Requested size: 145.0279pt x 142.89348pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 346--360
 [] 
  []
 
-<ciclico 2.png, id=93, 376.51547pt x 210.63147pt>
-File: ciclico 2.png Graphic file (type png)
-<use ciclico 2.png>
-Package pdftex.def Info: ciclico 2.png  used on input line 361.
+<Imagenes/ciclico 2.png, id=93, 376.51547pt x 210.63147pt>
+File: Imagenes/ciclico 2.png Graphic file (type png)
+<use Imagenes/ciclico 2.png>
+Package pdftex.def Info: Imagenes/ciclico 2.png  used on input line 361.
 (pdftex.def)             Requested size: 225.91101pt x 126.37985pt.
-<ciclico 3.png, id=94, 317.1642pt x 211.38039pt>
-File: ciclico 3.png Graphic file (type png)
-<use ciclico 3.png>
-Package pdftex.def Info: ciclico 3.png  used on input line 362.
+<Imagenes/ciclico 3.png, id=94, 317.1642pt x 211.38039pt>
+File: Imagenes/ciclico 3.png Graphic file (type png)
+<use Imagenes/ciclico 3.png>
+Package pdftex.def Info: Imagenes/ciclico 3.png  used on input line 362.
 (pdftex.def)             Requested size: 190.29997pt x 126.8292pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 364--381
@@ -553,39 +553,39 @@ Overfull \hbox (21.15451pt too wide) in paragraph at lines 364--381
 [] 
  []
 
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 381.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 381.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
-[14 <./ciclico.png> <./ciclico1.png> <./ciclico 2.png> <./ciclico 3.png>]
-<paralelogramo.png, id=102, 299.54013pt x 166.41118pt>
-File: paralelogramo.png Graphic file (type png)
-<use paralelogramo.png>
-Package pdftex.def Info: paralelogramo.png  used on input line 386.
+[14 <./Imagenes/ciclico.png> <./Imagenes/ciclico1.png> <./Imagenes/ciclico 2.png> <./Imagenes/ciclico 3.png>]
+<Imagenes/paralelogramo.png, id=102, 299.54013pt x 166.41118pt>
+File: Imagenes/paralelogramo.png Graphic file (type png)
+<use Imagenes/paralelogramo.png>
+Package pdftex.def Info: Imagenes/paralelogramo.png  used on input line 386.
 (pdftex.def)             Requested size: 209.67665pt x 116.48701pt.
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 398.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 398.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
- [15 <./paralelogramo.png>]
+ [15 <./Imagenes/paralelogramo.png>]
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 398--404
 [] 
  []
 
-<recta_euler.png, id=107, 297.87971pt x 226.1714pt>
-File: recta_euler.png Graphic file (type png)
-<use recta_euler.png>
-Package pdftex.def Info: recta_euler.png  used on input line 409.
+<Imagenes/recta_euler.png, id=107, 297.87971pt x 226.1714pt>
+File: Imagenes/recta_euler.png Graphic file (type png)
+<use Imagenes/recta_euler.png>
+Package pdftex.def Info: Imagenes/recta_euler.png  used on input line 409.
 (pdftex.def)             Requested size: 208.51437pt x 158.3189pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 405--421
 [] 
  []
 
-<circunferencia nueve.png, id=108, 362.1643pt x 284.80487pt>
-File: circunferencia nueve.png Graphic file (type png)
-<use circunferencia nueve.png>
-Package pdftex.def Info: circunferencia nueve.png  used on input line 426.
+<Imagenes/circunferencia nueve.png, id=108, 362.1643pt x 284.80487pt>
+File: Imagenes/circunferencia nueve.png Graphic file (type png)
+<use Imagenes/circunferencia nueve.png>
+Package pdftex.def Info: Imagenes/circunferencia nueve.png  used on input line 426.
 (pdftex.def)             Requested size: 253.51328pt x 199.36203pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 422--443
@@ -597,11 +597,11 @@ Overfull \hbox (21.15451pt too wide) in paragraph at lines 422--443
 [] 
  []
 
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 443.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 443.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
-[16 <./recta_euler.png>]
+[16 <./Imagenes/recta_euler.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 444--454
 
  []
@@ -611,15 +611,15 @@ Overfull \hbox (21.15451pt too wide) in paragraph at lines 444--454
 [] 
  []
 
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 454.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 454.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
-[17 <./circunferencia nueve.png>]
-<Ceva.png, id=117, 344.4428pt x 190.95192pt>
-File: Ceva.png Graphic file (type png)
-<use Ceva.png>
-Package pdftex.def Info: Ceva.png  used on input line 458.
+[17 <./Imagenes/circunferencia nueve.png>]
+<Imagenes/Ceva.png, id=117, 344.4428pt x 190.95192pt>
+File: Imagenes/Ceva.png Graphic file (type png)
+<use Imagenes/Ceva.png>
+Package pdftex.def Info: Imagenes/Ceva.png  used on input line 458.
 (pdftex.def)             Requested size: 275.5546pt x 152.76172pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 460--477
@@ -631,102 +631,102 @@ Overfull \hbox (21.15451pt too wide) in paragraph at lines 460--477
 [] 
  []
 
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 477.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 477.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
-[18 <./Ceva.png>]
-<Menelao1.png, id=122, 352.81976pt x 197.14308pt>
-File: Menelao1.png Graphic file (type png)
-<use Menelao1.png>
-Package pdftex.def Info: Menelao1.png  used on input line 481.
+[18 <./Imagenes/Ceva.png>]
+<Imagenes/Menelao1.png, id=122, 352.81976pt x 197.14308pt>
+File: Imagenes/Menelao1.png Graphic file (type png)
+<use Imagenes/Menelao1.png>
+Package pdftex.def Info: Imagenes/Menelao1.png  used on input line 481.
 (pdftex.def)             Requested size: 246.97214pt x 137.99919pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 484--492
 [][] 
  []
 
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 502.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 502.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
-[19 <./Menelao1.png>]
-<bisectriz_int.png, id=129, 252.82652pt x 356.13708pt>
-File: bisectriz_int.png Graphic file (type png)
-<use bisectriz_int.png>
-Package pdftex.def Info: bisectriz_int.png  used on input line 505.
+[19 <./Imagenes/Menelao1.png>]
+<Imagenes/bisectriz_int.png, id=129, 252.82652pt x 356.13708pt>
+File: Imagenes/bisectriz_int.png Graphic file (type png)
+<use Imagenes/bisectriz_int.png>
+Package pdftex.def Info: Imagenes/bisectriz_int.png  used on input line 505.
 (pdftex.def)             Requested size: 151.69707pt x 213.6839pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 507--516
 [] 
  []
 
-<bisectriz_ext.png, id=130, 493.09465pt x 236.47691pt>
-File: bisectriz_ext.png Graphic file (type png)
-<use bisectriz_ext.png>
-Package pdftex.def Info: bisectriz_ext.png  used on input line 518.
+<Imagenes/bisectriz_ext.png, id=130, 493.09465pt x 236.47691pt>
+File: Imagenes/bisectriz_ext.png Graphic file (type png)
+<use Imagenes/bisectriz_ext.png>
+Package pdftex.def Info: Imagenes/bisectriz_ext.png  used on input line 518.
 (pdftex.def)             Requested size: 295.85905pt x 141.88724pt.
 
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 520--525
 [] 
  []
 
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 525.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 525.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
-[20 <./bisectriz_int.png> <./bisectriz_ext.png>]
-<pappus.png, id=136, 414.90088pt x 265.85883pt>
-File: pappus.png Graphic file (type png)
-<use pappus.png>
-Package pdftex.def Info: pappus.png  used on input line 529.
+[20 <./Imagenes/bisectriz_int.png> <./Imagenes/bisectriz_ext.png>]
+<Imagenes/pappus.png, id=136, 414.90088pt x 265.85883pt>
+File: Imagenes/pappus.png Graphic file (type png)
+<use Imagenes/pappus.png>
+Package pdftex.def Info: Imagenes/pappus.png  used on input line 529.
 (pdftex.def)             Requested size: 186.70366pt x 119.63536pt.
-<pappus1.png, id=137, 529.81557pt x 354.44365pt>
-File: pappus1.png Graphic file (type png)
-<use pappus1.png>
-Package pdftex.def Info: pappus1.png  used on input line 530.
+<Imagenes/pappus1.png, id=137, 529.81557pt x 354.44365pt>
+File: Imagenes/pappus1.png Graphic file (type png)
+<use Imagenes/pappus1.png>
+Package pdftex.def Info: Imagenes/pappus1.png  used on input line 530.
 (pdftex.def)             Requested size: 238.4148pt x 159.49817pt.
-<pappus2.png, id=138, 395.3594pt x 432.50127pt>
-File: pappus2.png Graphic file (type png)
-<use pappus2.png>
-Package pdftex.def Info: pappus2.png  used on input line 536.
+<Imagenes/pappus2.png, id=138, 395.3594pt x 432.50127pt>
+File: Imagenes/pappus2.png Graphic file (type png)
+<use Imagenes/pappus2.png>
+Package pdftex.def Info: Imagenes/pappus2.png  used on input line 536.
 (pdftex.def)             Requested size: 189.77036pt x 207.59825pt.
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 538.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 538.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
- [21 <./pappus.png> <./pappus1.png> <./pappus2.png>]
-<desargue.png, id=145, 507.03714pt x 558.085pt>
-File: desargue.png Graphic file (type png)
-<use desargue.png>
-Package pdftex.def Info: desargue.png  used on input line 554.
+ [21 <./Imagenes/pappus.png> <./Imagenes/pappus1.png> <./Imagenes/pappus2.png>]
+<Imagenes/desargue.png, id=145, 507.03714pt x 558.085pt>
+File: Imagenes/desargue.png Graphic file (type png)
+<use Imagenes/desargue.png>
+Package pdftex.def Info: Imagenes/desargue.png  used on input line 554.
 (pdftex.def)             Requested size: 253.51794pt x 279.04182pt.
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 563.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 563.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
- [22 <./desargue.png>]
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 574.
+ [22 <./Imagenes/desargue.png>]
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 574.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
  [23]
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 575--598
 [][] 
  []
 
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 609.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 609.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
 [24]
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 615--633
 [][] 
  []
 
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 634.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 634.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
 [25]
 Overfull \hbox (21.15451pt too wide) in paragraph at lines 639--647
@@ -738,81 +738,81 @@ Overfull \hbox (21.15451pt too wide) in paragraph at lines 650--662
 [][] 
  []
 
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 663.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 663.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
 [26]
-<stewart.png, id=163, 295.77167pt x 182.51521pt>
-File: stewart.png Graphic file (type png)
-<use stewart.png>
-Package pdftex.def Info: stewart.png  used on input line 665.
+<Imagenes/stewart.png, id=163, 295.77167pt x 182.51521pt>
+File: Imagenes/stewart.png Graphic file (type png)
+<use Imagenes/stewart.png>
+Package pdftex.def Info: Imagenes/stewart.png  used on input line 665.
 (pdftex.def)             Requested size: 177.46436pt x 109.50996pt.
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 700.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 700.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
- [27 <./stewart.png>]
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 716.
+ [27 <./Imagenes/stewart.png>]
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 716.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
  [28]
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 740.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 740.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
  [29]
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 756.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 756.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
  [30]
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 778.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 778.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
  [31]
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 813.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 813.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
  [32]
 Overfull \hbox (25.63391pt too wide) in alignment at lines 827--834
  [][][] []
  []
 
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 834.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 834.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
 [33]
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 852.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 852.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
  [34]
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 870.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 870.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
  [35]
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 887.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 887.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
  [36]
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 892.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 892.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
  [37] ("c:/Users\chris\OneDrive\Documentos\Latex\Geometria\build\Soluciones Teorema Geometria.aux"
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 4384 strings out of 479799
- 61690 string characters out of 2867787
+ 4385 strings out of 479799
+ 63274 string characters out of 2867787
  367392 words of memory out of 3000000
  21300 multiletter control sequences out of 15000+200000
  543846 words of font info for 63 fonts, out of 3000000 for 9000

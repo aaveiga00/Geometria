@@ -269,76 +269,76 @@ INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.f
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT .\demo1.png
-INPUT .\demo1.png
-INPUT demo1.png
-INPUT .\demo1.png
+INPUT .\Imagenes\demo1.png
+INPUT .\Imagenes\demo1.png
+INPUT Imagenes\demo1.png
+INPUT .\Imagenes\demo1.png
 OUTPUT c:\Users\chris\OneDrive\Documentos\Latex\Geometria\build\Soluciones Teorema Geometria.pdf
-INPUT .\demo1.png
-INPUT .\demo1.png
-INPUT .\demo1.png
-INPUT .\demo2.png
-INPUT .\demo2.png
-INPUT demo2.png
-INPUT .\demo2.png
-INPUT .\demo2.png
-INPUT .\demo2.png
-INPUT .\demo2.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
+INPUT .\Imagenes\demo1.png
+INPUT .\Imagenes\demo1.png
+INPUT .\Imagenes\demo1.png
+INPUT .\Imagenes\demo2.png
+INPUT .\Imagenes\demo2.png
+INPUT Imagenes\demo2.png
+INPUT .\Imagenes\demo2.png
+INPUT .\Imagenes\demo2.png
+INPUT .\Imagenes\demo2.png
+INPUT .\Imagenes\demo2.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
 INPUT C:\Users\chris\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
-INPUT .\demo3.png
-INPUT .\demo3.png
-INPUT demo3.png
-INPUT .\demo3.png
-INPUT .\demo3.png
-INPUT .\demo3.png
-INPUT .\demo3.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\thales 1.png
-INPUT .\thales 1.png
-INPUT thales 1.png
-INPUT .\thales 1.png
-INPUT .\thales 1.png
-INPUT .\thales 1.png
-INPUT .\thales 1.png
-INPUT .\thales1.1.png
-INPUT .\thales1.1.png
-INPUT thales1.1.png
-INPUT .\thales1.1.png
-INPUT .\thales1.1.png
-INPUT .\thales1.1.png
-INPUT .\thales1.1.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\thales.png
-INPUT .\thales.png
-INPUT thales.png
-INPUT .\thales.png
-INPUT .\thales.png
-INPUT .\thales.png
-INPUT .\thales.png
-INPUT .\thales2.png
-INPUT .\thales2.png
-INPUT thales2.png
-INPUT .\thales2.png
-INPUT .\thales2.png
-INPUT .\thales2.png
-INPUT .\thales2.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
+INPUT .\Imagenes\demo3.png
+INPUT .\Imagenes\demo3.png
+INPUT Imagenes\demo3.png
+INPUT .\Imagenes\demo3.png
+INPUT .\Imagenes\demo3.png
+INPUT .\Imagenes\demo3.png
+INPUT .\Imagenes\demo3.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\thales 1.png
+INPUT .\Imagenes\thales 1.png
+INPUT Imagenes\thales 1.png
+INPUT .\Imagenes\thales 1.png
+INPUT .\Imagenes\thales 1.png
+INPUT .\Imagenes\thales 1.png
+INPUT .\Imagenes\thales 1.png
+INPUT .\Imagenes\thales1.1.png
+INPUT .\Imagenes\thales1.1.png
+INPUT Imagenes\thales1.1.png
+INPUT .\Imagenes\thales1.1.png
+INPUT .\Imagenes\thales1.1.png
+INPUT .\Imagenes\thales1.1.png
+INPUT .\Imagenes\thales1.1.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\thales.png
+INPUT .\Imagenes\thales.png
+INPUT Imagenes\thales.png
+INPUT .\Imagenes\thales.png
+INPUT .\Imagenes\thales.png
+INPUT .\Imagenes\thales.png
+INPUT .\Imagenes\thales.png
+INPUT .\Imagenes\thales2.png
+INPUT .\Imagenes\thales2.png
+INPUT Imagenes\thales2.png
+INPUT .\Imagenes\thales2.png
+INPUT .\Imagenes\thales2.png
+INPUT .\Imagenes\thales2.png
+INPUT .\Imagenes\thales2.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
@@ -349,340 +349,340 @@ INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT .\semejanza.png
-INPUT .\semejanza.png
-INPUT semejanza.png
-INPUT .\semejanza.png
-INPUT .\semejanza.png
-INPUT .\semejanza.png
-INPUT .\semejanza.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\semejanza.png
-INPUT .\semejanza.png
-INPUT semejanza.png
-INPUT .\semejanza.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\semejanza.png
-INPUT .\semejanza.png
-INPUT semejanza.png
-INPUT .\semejanza.png
-INPUT .\pitagoras.png
-INPUT .\pitagoras.png
-INPUT pitagoras.png
-INPUT .\pitagoras.png
-INPUT .\pitagoras.png
-INPUT .\pitagoras.png
-INPUT .\pitagoras.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\pitagoras.png
-INPUT .\pitagoras.png
-INPUT pitagoras.png
-INPUT .\pitagoras.png
+INPUT .\Imagenes\semejanza.png
+INPUT .\Imagenes\semejanza.png
+INPUT Imagenes\semejanza.png
+INPUT .\Imagenes\semejanza.png
+INPUT .\Imagenes\semejanza.png
+INPUT .\Imagenes\semejanza.png
+INPUT .\Imagenes\semejanza.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\semejanza.png
+INPUT .\Imagenes\semejanza.png
+INPUT Imagenes\semejanza.png
+INPUT .\Imagenes\semejanza.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\semejanza.png
+INPUT .\Imagenes\semejanza.png
+INPUT Imagenes\semejanza.png
+INPUT .\Imagenes\semejanza.png
+INPUT .\Imagenes\pitagoras.png
+INPUT .\Imagenes\pitagoras.png
+INPUT Imagenes\pitagoras.png
+INPUT .\Imagenes\pitagoras.png
+INPUT .\Imagenes\pitagoras.png
+INPUT .\Imagenes\pitagoras.png
+INPUT .\Imagenes\pitagoras.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\pitagoras.png
+INPUT .\Imagenes\pitagoras.png
+INPUT Imagenes\pitagoras.png
+INPUT .\Imagenes\pitagoras.png
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\medianas.png
-INPUT .\medianas.png
-INPUT medianas.png
-INPUT .\medianas.png
-INPUT .\medianas.png
-INPUT .\medianas.png
-INPUT .\medianas.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\bisectriz.png
-INPUT .\bisectriz.png
-INPUT bisectriz.png
-INPUT .\bisectriz.png
-INPUT .\bisectriz.png
-INPUT .\bisectriz.png
-INPUT .\bisectriz.png
-INPUT .\bisectriz1.png
-INPUT .\bisectriz1.png
-INPUT bisectriz1.png
-INPUT .\bisectriz1.png
-INPUT .\bisectriz1.png
-INPUT .\bisectriz1.png
-INPUT .\bisectriz1.png
-INPUT .\mediatriz.png
-INPUT .\mediatriz.png
-INPUT mediatriz.png
-INPUT .\mediatriz.png
-INPUT .\mediatriz.png
-INPUT .\mediatriz.png
-INPUT .\mediatriz.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\alturas.png
-INPUT .\alturas.png
-INPUT alturas.png
-INPUT .\alturas.png
-INPUT .\alturas.png
-INPUT .\alturas.png
-INPUT .\alturas.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\circulo.png
-INPUT .\circulo.png
-INPUT circulo.png
-INPUT .\circulo.png
-INPUT .\circulo.png
-INPUT .\circulo.png
-INPUT .\circulo.png
-INPUT .\circulo 1.png
-INPUT .\circulo 1.png
-INPUT circulo 1.png
-INPUT .\circulo 1.png
-INPUT .\circulo 1.png
-INPUT .\circulo 1.png
-INPUT .\circulo 1.png
-INPUT .\circulo 2.png
-INPUT .\circulo 2.png
-INPUT circulo 2.png
-INPUT .\circulo 2.png
-INPUT .\circulo 2.png
-INPUT .\circulo 2.png
-INPUT .\circulo 2.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\circulo 3.png
-INPUT .\circulo 3.png
-INPUT circulo 3.png
-INPUT .\circulo 3.png
-INPUT .\circulo 3.png
-INPUT .\circulo 3.png
-INPUT .\circulo 3.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\ciclico.png
-INPUT .\ciclico.png
-INPUT ciclico.png
-INPUT .\ciclico.png
-INPUT .\ciclico.png
-INPUT .\ciclico.png
-INPUT .\ciclico.png
-INPUT .\ciclico1.png
-INPUT .\ciclico1.png
-INPUT ciclico1.png
-INPUT .\ciclico1.png
-INPUT .\ciclico1.png
-INPUT .\ciclico1.png
-INPUT .\ciclico1.png
-INPUT .\ciclico 2.png
-INPUT .\ciclico 2.png
-INPUT ciclico 2.png
-INPUT .\ciclico 2.png
-INPUT .\ciclico 2.png
-INPUT .\ciclico 2.png
-INPUT .\ciclico 2.png
-INPUT .\ciclico 3.png
-INPUT .\ciclico 3.png
-INPUT ciclico 3.png
-INPUT .\ciclico 3.png
-INPUT .\ciclico 3.png
-INPUT .\ciclico 3.png
-INPUT .\ciclico 3.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\paralelogramo.png
-INPUT .\paralelogramo.png
-INPUT paralelogramo.png
-INPUT .\paralelogramo.png
-INPUT .\paralelogramo.png
-INPUT .\paralelogramo.png
-INPUT .\paralelogramo.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\recta_euler.png
-INPUT .\recta_euler.png
-INPUT recta_euler.png
-INPUT .\recta_euler.png
-INPUT .\recta_euler.png
-INPUT .\recta_euler.png
-INPUT .\recta_euler.png
-INPUT .\circunferencia nueve.png
-INPUT .\circunferencia nueve.png
-INPUT circunferencia nueve.png
-INPUT .\circunferencia nueve.png
-INPUT .\circunferencia nueve.png
-INPUT .\circunferencia nueve.png
-INPUT .\circunferencia nueve.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\Ceva.png
-INPUT .\Ceva.png
-INPUT Ceva.png
-INPUT .\Ceva.png
-INPUT .\Ceva.png
-INPUT .\Ceva.png
-INPUT .\Ceva.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\Menelao1.png
-INPUT .\Menelao1.png
-INPUT Menelao1.png
-INPUT .\Menelao1.png
-INPUT .\Menelao1.png
-INPUT .\Menelao1.png
-INPUT .\Menelao1.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\bisectriz_int.png
-INPUT .\bisectriz_int.png
-INPUT bisectriz_int.png
-INPUT .\bisectriz_int.png
-INPUT .\bisectriz_int.png
-INPUT .\bisectriz_int.png
-INPUT .\bisectriz_int.png
-INPUT .\bisectriz_ext.png
-INPUT .\bisectriz_ext.png
-INPUT bisectriz_ext.png
-INPUT .\bisectriz_ext.png
-INPUT .\bisectriz_ext.png
-INPUT .\bisectriz_ext.png
-INPUT .\bisectriz_ext.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\pappus.png
-INPUT .\pappus.png
-INPUT pappus.png
-INPUT .\pappus.png
-INPUT .\pappus.png
-INPUT .\pappus.png
-INPUT .\pappus.png
-INPUT .\pappus1.png
-INPUT .\pappus1.png
-INPUT pappus1.png
-INPUT .\pappus1.png
-INPUT .\pappus1.png
-INPUT .\pappus1.png
-INPUT .\pappus1.png
-INPUT .\pappus2.png
-INPUT .\pappus2.png
-INPUT pappus2.png
-INPUT .\pappus2.png
-INPUT .\pappus2.png
-INPUT .\pappus2.png
-INPUT .\pappus2.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\desargue.png
-INPUT .\desargue.png
-INPUT desargue.png
-INPUT .\desargue.png
-INPUT .\desargue.png
-INPUT .\desargue.png
-INPUT .\desargue.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\stewart.png
-INPUT .\stewart.png
-INPUT stewart.png
-INPUT .\stewart.png
-INPUT .\stewart.png
-INPUT .\stewart.png
-INPUT .\stewart.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\medianas.png
+INPUT .\Imagenes\medianas.png
+INPUT Imagenes\medianas.png
+INPUT .\Imagenes\medianas.png
+INPUT .\Imagenes\medianas.png
+INPUT .\Imagenes\medianas.png
+INPUT .\Imagenes\medianas.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\bisectriz.png
+INPUT .\Imagenes\bisectriz.png
+INPUT Imagenes\bisectriz.png
+INPUT .\Imagenes\bisectriz.png
+INPUT .\Imagenes\bisectriz.png
+INPUT .\Imagenes\bisectriz.png
+INPUT .\Imagenes\bisectriz.png
+INPUT .\Imagenes\bisectriz1.png
+INPUT .\Imagenes\bisectriz1.png
+INPUT Imagenes\bisectriz1.png
+INPUT .\Imagenes\bisectriz1.png
+INPUT .\Imagenes\bisectriz1.png
+INPUT .\Imagenes\bisectriz1.png
+INPUT .\Imagenes\bisectriz1.png
+INPUT .\Imagenes\mediatriz.png
+INPUT .\Imagenes\mediatriz.png
+INPUT Imagenes\mediatriz.png
+INPUT .\Imagenes\mediatriz.png
+INPUT .\Imagenes\mediatriz.png
+INPUT .\Imagenes\mediatriz.png
+INPUT .\Imagenes\mediatriz.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\alturas.png
+INPUT .\Imagenes\alturas.png
+INPUT Imagenes\alturas.png
+INPUT .\Imagenes\alturas.png
+INPUT .\Imagenes\alturas.png
+INPUT .\Imagenes\alturas.png
+INPUT .\Imagenes\alturas.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\circulo.png
+INPUT .\Imagenes\circulo.png
+INPUT Imagenes\circulo.png
+INPUT .\Imagenes\circulo.png
+INPUT .\Imagenes\circulo.png
+INPUT .\Imagenes\circulo.png
+INPUT .\Imagenes\circulo.png
+INPUT .\Imagenes\circulo 1.png
+INPUT .\Imagenes\circulo 1.png
+INPUT Imagenes\circulo 1.png
+INPUT .\Imagenes\circulo 1.png
+INPUT .\Imagenes\circulo 1.png
+INPUT .\Imagenes\circulo 1.png
+INPUT .\Imagenes\circulo 1.png
+INPUT .\Imagenes\circulo 2.png
+INPUT .\Imagenes\circulo 2.png
+INPUT Imagenes\circulo 2.png
+INPUT .\Imagenes\circulo 2.png
+INPUT .\Imagenes\circulo 2.png
+INPUT .\Imagenes\circulo 2.png
+INPUT .\Imagenes\circulo 2.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\circulo 3.png
+INPUT .\Imagenes\circulo 3.png
+INPUT Imagenes\circulo 3.png
+INPUT .\Imagenes\circulo 3.png
+INPUT .\Imagenes\circulo 3.png
+INPUT .\Imagenes\circulo 3.png
+INPUT .\Imagenes\circulo 3.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\ciclico.png
+INPUT .\Imagenes\ciclico.png
+INPUT Imagenes\ciclico.png
+INPUT .\Imagenes\ciclico.png
+INPUT .\Imagenes\ciclico.png
+INPUT .\Imagenes\ciclico.png
+INPUT .\Imagenes\ciclico.png
+INPUT .\Imagenes\ciclico1.png
+INPUT .\Imagenes\ciclico1.png
+INPUT Imagenes\ciclico1.png
+INPUT .\Imagenes\ciclico1.png
+INPUT .\Imagenes\ciclico1.png
+INPUT .\Imagenes\ciclico1.png
+INPUT .\Imagenes\ciclico1.png
+INPUT .\Imagenes\ciclico 2.png
+INPUT .\Imagenes\ciclico 2.png
+INPUT Imagenes\ciclico 2.png
+INPUT .\Imagenes\ciclico 2.png
+INPUT .\Imagenes\ciclico 2.png
+INPUT .\Imagenes\ciclico 2.png
+INPUT .\Imagenes\ciclico 2.png
+INPUT .\Imagenes\ciclico 3.png
+INPUT .\Imagenes\ciclico 3.png
+INPUT Imagenes\ciclico 3.png
+INPUT .\Imagenes\ciclico 3.png
+INPUT .\Imagenes\ciclico 3.png
+INPUT .\Imagenes\ciclico 3.png
+INPUT .\Imagenes\ciclico 3.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\paralelogramo.png
+INPUT .\Imagenes\paralelogramo.png
+INPUT Imagenes\paralelogramo.png
+INPUT .\Imagenes\paralelogramo.png
+INPUT .\Imagenes\paralelogramo.png
+INPUT .\Imagenes\paralelogramo.png
+INPUT .\Imagenes\paralelogramo.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\recta_euler.png
+INPUT .\Imagenes\recta_euler.png
+INPUT Imagenes\recta_euler.png
+INPUT .\Imagenes\recta_euler.png
+INPUT .\Imagenes\recta_euler.png
+INPUT .\Imagenes\recta_euler.png
+INPUT .\Imagenes\recta_euler.png
+INPUT .\Imagenes\circunferencia nueve.png
+INPUT .\Imagenes\circunferencia nueve.png
+INPUT Imagenes\circunferencia nueve.png
+INPUT .\Imagenes\circunferencia nueve.png
+INPUT .\Imagenes\circunferencia nueve.png
+INPUT .\Imagenes\circunferencia nueve.png
+INPUT .\Imagenes\circunferencia nueve.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\Ceva.png
+INPUT .\Imagenes\Ceva.png
+INPUT Imagenes\Ceva.png
+INPUT .\Imagenes\Ceva.png
+INPUT .\Imagenes\Ceva.png
+INPUT .\Imagenes\Ceva.png
+INPUT .\Imagenes\Ceva.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\Menelao1.png
+INPUT .\Imagenes\Menelao1.png
+INPUT Imagenes\Menelao1.png
+INPUT .\Imagenes\Menelao1.png
+INPUT .\Imagenes\Menelao1.png
+INPUT .\Imagenes\Menelao1.png
+INPUT .\Imagenes\Menelao1.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\bisectriz_int.png
+INPUT .\Imagenes\bisectriz_int.png
+INPUT Imagenes\bisectriz_int.png
+INPUT .\Imagenes\bisectriz_int.png
+INPUT .\Imagenes\bisectriz_int.png
+INPUT .\Imagenes\bisectriz_int.png
+INPUT .\Imagenes\bisectriz_int.png
+INPUT .\Imagenes\bisectriz_ext.png
+INPUT .\Imagenes\bisectriz_ext.png
+INPUT Imagenes\bisectriz_ext.png
+INPUT .\Imagenes\bisectriz_ext.png
+INPUT .\Imagenes\bisectriz_ext.png
+INPUT .\Imagenes\bisectriz_ext.png
+INPUT .\Imagenes\bisectriz_ext.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\pappus.png
+INPUT .\Imagenes\pappus.png
+INPUT Imagenes\pappus.png
+INPUT .\Imagenes\pappus.png
+INPUT .\Imagenes\pappus.png
+INPUT .\Imagenes\pappus.png
+INPUT .\Imagenes\pappus.png
+INPUT .\Imagenes\pappus1.png
+INPUT .\Imagenes\pappus1.png
+INPUT Imagenes\pappus1.png
+INPUT .\Imagenes\pappus1.png
+INPUT .\Imagenes\pappus1.png
+INPUT .\Imagenes\pappus1.png
+INPUT .\Imagenes\pappus1.png
+INPUT .\Imagenes\pappus2.png
+INPUT .\Imagenes\pappus2.png
+INPUT Imagenes\pappus2.png
+INPUT .\Imagenes\pappus2.png
+INPUT .\Imagenes\pappus2.png
+INPUT .\Imagenes\pappus2.png
+INPUT .\Imagenes\pappus2.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\desargue.png
+INPUT .\Imagenes\desargue.png
+INPUT Imagenes\desargue.png
+INPUT .\Imagenes\desargue.png
+INPUT .\Imagenes\desargue.png
+INPUT .\Imagenes\desargue.png
+INPUT .\Imagenes\desargue.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\stewart.png
+INPUT .\Imagenes\stewart.png
+INPUT Imagenes\stewart.png
+INPUT .\Imagenes\stewart.png
+INPUT .\Imagenes\stewart.png
+INPUT .\Imagenes\stewart.png
+INPUT .\Imagenes\stewart.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
 INPUT c:\Users\chris\OneDrive\Documentos\Latex\Geometria\build\Soluciones Teorema Geometria.aux
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb

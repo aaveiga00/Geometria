@@ -268,21 +268,21 @@ INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.f
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT .\thales.png
-INPUT .\thales.png
-INPUT thales.png
-INPUT .\thales.png
+INPUT .\Imagenes\thales.png
+INPUT .\Imagenes\thales.png
+INPUT Imagenes\thales.png
+INPUT .\Imagenes\thales.png
 OUTPUT c:\Users\chris\OneDrive\Documentos\Latex\Geometria\build\Teoremas de Geometría.pdf
-INPUT .\thales.png
-INPUT .\thales.png
-INPUT .\thales.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
+INPUT .\Imagenes\thales.png
+INPUT .\Imagenes\thales.png
+INPUT .\Imagenes\thales.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
 INPUT C:\Users\chris\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
@@ -294,49 +294,49 @@ INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\stewart.png
-INPUT .\stewart.png
-INPUT stewart.png
-INPUT .\stewart.png
-INPUT .\stewart.png
-INPUT .\stewart.png
-INPUT .\stewart.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT .\image001.png
-INPUT image001.png
-INPUT .\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\stewart.png
+INPUT .\Imagenes\stewart.png
+INPUT Imagenes\stewart.png
+INPUT .\Imagenes\stewart.png
+INPUT .\Imagenes\stewart.png
+INPUT .\Imagenes\stewart.png
+INPUT .\Imagenes\stewart.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
 INPUT c:\Users\chris\OneDrive\Documentos\Latex\Geometria\build\Teoremas de Geometría.aux
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb

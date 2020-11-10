@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1604965385 "c:/Users/chris/OneDrive/Documentos/Latex/Geometria/Teoremas de Geometría.tex" "c:/Users/chris/OneDrive/Documentos/Latex/Geometria/build/Teoremas de Geometría.pdf" "Teoremas de Geometría" 1604965388
+["pdflatex"] 1604976477 "c:/Users/chris/OneDrive/Documentos/Latex/Geometria/Teoremas de Geometría.tex" "c:/Users/chris/OneDrive/Documentos/Latex/Geometria/build/Teoremas de Geometría.pdf" "Teoremas de Geometría" 1604976480
   "C:/Users/chris/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1604797069 10296296 55c4040dcc084236c781dfc49d0f02fe ""
   "C:/Users/chris/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1604807376 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -59,11 +59,11 @@
   "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/keyval.sty" 1601745126 2677 e3b24ff953e5b58d924f163d25380312 ""
   "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/trig.sty" 1601745126 4093 d7fa7d81d2870d509d25b17d0245e735 ""
   "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3backend/l3backend-pdftex.def" 1600956116 23704 02c466ff883953a445c97e55638005fc ""
-  "c:/Users/chris/OneDrive/Documentos/Latex/Geometria/Teoremas de Geometría.tex" 1604965380 17328 9daed2a67ac9562e436305500de6419a ""
-  "c:/Users/chris/OneDrive/Documentos/Latex/Geometria/build/Teoremas de Geometría.aux" 1604965388 195 099c65ce07d3ee6ac17496a5f6d744ce ""
-  "image001.png" 1572586466 99317 3f95257d164ba8ee113fcb946432581b ""
-  "stewart.png" 1596309696 47780 6613be3cc848d5a37825f45fbbb63889 ""
-  "thales.png" 1597103898 37626 1373e750d0b4cf3c1dea9a5b275eaaf4 ""
+  "Imagenes/image001.png" 1572586466 99317 3f95257d164ba8ee113fcb946432581b ""
+  "Imagenes/stewart.png" 1596309696 47780 6613be3cc848d5a37825f45fbbb63889 ""
+  "Imagenes/thales.png" 1597103898 37626 1373e750d0b4cf3c1dea9a5b275eaaf4 ""
+  "c:/Users/chris/OneDrive/Documentos/Latex/Geometria/Teoremas de Geometría.tex" 1604976472 17355 3e9a2e971412aeb6a969704dffdd3762 ""
+  "c:/Users/chris/OneDrive/Documentos/Latex/Geometria/build/Teoremas de Geometría.aux" 1604976480 195 099c65ce07d3ee6ac17496a5f6d744ce ""
   (generated)
-  "c:/Users/chris/OneDrive/Documentos/Latex/Geometria/build/Teoremas de Geometría.log"
   "c:/Users/chris/OneDrive/Documentos/Latex/Geometria/build/Teoremas de Geometría.pdf"
+  "c:/Users/chris/OneDrive/Documentos/Latex/Geometria/build/Teoremas de Geometría.log"

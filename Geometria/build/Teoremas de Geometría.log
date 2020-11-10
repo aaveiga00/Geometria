@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.7)  9 NOV 2020 18:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.7)  9 NOV 2020 21:47
 entering extended mode
 **"c:/Users/chris/OneDrive/Documentos/Latex/Geometria/Teoremas de Geometría.tex"
 ("c:/Users/chris/OneDrive/Documentos/Latex/Geometria/Teoremas de Geometría.tex"
@@ -245,15 +245,15 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
  ("C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<thales.png, id=1, 299.34677pt x 247.20769pt>
-File: thales.png Graphic file (type png)
-<use thales.png>
-Package pdftex.def Info: thales.png  used on input line 39.
+<Imagenes/thales.png, id=1, 299.34677pt x 247.20769pt>
+File: Imagenes/thales.png Graphic file (type png)
+<use Imagenes/thales.png>
+Package pdftex.def Info: Imagenes/thales.png  used on input line 39.
 (pdftex.def)             Requested size: 134.7048pt x 111.24242pt.
-<image001.png, id=3, 309.40594pt x 164.11313pt>
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 41.
+<Imagenes/image001.png, id=3, 309.40594pt x 164.11313pt>
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 41.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
 
 
@@ -264,63 +264,63 @@ This may cause the page layout to be inconsistent, however.
 
 [1{C:/Users/chris/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
- <./image001.png> <./thales.png>]
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 66.
+ <./Imagenes/image001.png> <./Imagenes/thales.png>]
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 66.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
  [2]
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 86.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 86.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
  [3]
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 102.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 102.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
  [4]
-<stewart.png, id=25, 295.77167pt x 182.51521pt>
-File: stewart.png Graphic file (type png)
-<use stewart.png>
-Package pdftex.def Info: stewart.png  used on input line 111.
+<Imagenes/stewart.png, id=25, 295.77167pt x 182.51521pt>
+File: Imagenes/stewart.png Graphic file (type png)
+<use Imagenes/stewart.png>
+Package pdftex.def Info: Imagenes/stewart.png  used on input line 111.
 (pdftex.def)             Requested size: 177.46436pt x 109.50996pt.
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 122.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 122.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
- [5 <./stewart.png>]
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 141.
+ [5 <./Imagenes/stewart.png>]
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 141.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
  [6]
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 165.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 165.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
  [7]
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 183.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 183.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
  [8]
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 201.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 201.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
  [9]
-File: image001.png Graphic file (type png)
-<use image001.png>
-Package pdftex.def Info: image001.png  used on input line 212.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 212.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
  [10] ("c:/Users\chris\OneDrive\Documentos\Latex\Geometria\build\Teoremas de Geometría.aux"
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 4170 strings out of 479799
- 58301 string characters out of 2867787
+ 4171 strings out of 479799
+ 58445 string characters out of 2867787
  356380 words of memory out of 3000000
  21121 multiletter control sequences out of 15000+200000
  543253 words of font info for 61 fonts, out of 3000000 for 9000
