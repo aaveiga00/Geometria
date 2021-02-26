@@ -1,0 +1,79 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{\numberline {1}Teoremas de Geometría.}{5}{}%
+\contentsline {section}{\numberline {1.1}1. Teorema de suma de los ángulos de un triángulo.}{5}{}%
+\contentsline {section}{\numberline {1.2}2.1. Desigualdad del triángulo.}{5}{}%
+\contentsline {section}{\numberline {1.3}2.2. Teorema.}{5}{}%
+\contentsline {section}{\numberline {1.4}3.1. Primer teorema de Thales.}{5}{}%
+\contentsline {section}{\numberline {1.5}3.1.1. Teorema.}{5}{}%
+\contentsline {section}{\numberline {1.6}3.2 Segundo teorema de Thales.}{6}{}%
+\contentsline {section}{\numberline {1.7}4.1. Teorema de semejanza $\angle -\angle -\angle $.}{7}{}%
+\contentsline {section}{\numberline {1.8}4.2 Teorema de semejanza $L-\angle - L.$}{7}{}%
+\contentsline {section}{\numberline {1.9}4.3 Teorema de semejanza $L-L-L$.}{7}{}%
+\contentsline {section}{\numberline {1.10}5.1 Teorema de Pitágoras.}{7}{}%
+\contentsline {section}{\numberline {1.11}5.2 Teorema recíproco del Pitágoras.}{7}{}%
+\contentsline {section}{\numberline {1.12}6. Teorema.}{7}{}%
+\contentsline {section}{\numberline {1.13}7. Teorema.}{7}{}%
+\contentsline {section}{\numberline {1.14}8. Teorema.}{7}{}%
+\contentsline {section}{\numberline {1.15}9. Teorema.}{7}{}%
+\contentsline {section}{\numberline {1.16}10.1. Teorema de la medida del ángulo inscrito.}{8}{}%
+\contentsline {section}{\numberline {1.17}10.2. Teorema de la medida del ángulo semi-inscrito.}{8}{}%
+\contentsline {section}{\numberline {1.18}11. Teorema.}{8}{}%
+\contentsline {section}{\numberline {1.19}12. Ley del paralelogramo.}{8}{}%
+\contentsline {section}{\numberline {1.20}13. Teorema de la recta de Euler.}{8}{}%
+\contentsline {section}{\numberline {1.21}14.1. Teorema de la Circunferencia de nueves puntos.}{8}{}%
+\contentsline {section}{\numberline {1.22}14.2. Teorema.}{8}{}%
+\contentsline {section}{\numberline {1.23}15. Teorema de Ceva.}{8}{}%
+\contentsline {section}{\numberline {1.24}16. Teorema de Menelao.}{9}{}%
+\contentsline {section}{\numberline {1.25}17. Teorema de la bisectriz.}{9}{}%
+\contentsline {section}{\numberline {1.26}18. Teorema de Pappus.}{9}{}%
+\contentsline {section}{\numberline {1.27}19.1 Teorema de Desargues.}{9}{}%
+\contentsline {section}{\numberline {1.28}19.2 Teorema.}{9}{}%
+\contentsline {section}{\numberline {1.29}19.3 Teorema.}{9}{}%
+\contentsline {section}{\numberline {1.30}20. Teorema.}{9}{}%
+\contentsline {section}{\numberline {1.31}21. Teorema.}{10}{}%
+\contentsline {section}{\numberline {1.32}22. Teorema.}{10}{}%
+\contentsline {section}{\numberline {1.33}23. Teorema.}{10}{}%
+\contentsline {section}{\numberline {1.34}24. Teorema.}{10}{}%
+\contentsline {section}{\numberline {1.35}25. Teorema de los cosenos.}{10}{}%
+\contentsline {section}{\numberline {1.36}26. Ley de los senos.}{10}{}%
+\contentsline {section}{\numberline {1.37}27. Teorema de Stewart.}{10}{}%
+\contentsline {section}{\numberline {1.38}28. Fórmulas de área de un triángulo.}{11}{}%
+\contentsline {section}{\numberline {1.39}29. Desigualdad geométrica.}{11}{}%
+\contentsline {section}{\numberline {1.40}30. Desigualdad de Nesbitt.}{11}{}%
+\contentsline {section}{\numberline {1.41}31. Transformación de Ravi.}{11}{}%
+\contentsline {section}{\numberline {1.42}32. Desigualdad geométrica.}{11}{}%
+\contentsline {section}{\numberline {1.43}33.1. Teorema de Potencia de punto.}{12}{}%
+\contentsline {section}{\numberline {1.44}33.2. Teorema del Centro Radical.}{12}{}%
+\contentsline {section}{\numberline {1.45}34.Teorema de Fórmula de Euler.}{12}{}%
+\contentsline {section}{\numberline {1.46}35. Teorema de Homotecia.}{12}{}%
+\contentsline {section}{\numberline {1.47}36. Teorema de la Circunferencia de Apolonio.}{12}{}%
+\contentsline {section}{\numberline {1.48}37.1. Teorema de Inversión.}{12}{}%
+\contentsline {section}{\numberline {1.49}37.2. Teorema.}{12}{}%
+\contentsline {section}{\numberline {1.50}37.3. Teorema.}{12}{}%
+\contentsline {section}{\numberline {1.51}37.4. Teorema.}{13}{}%
+\contentsline {section}{\numberline {1.52}38. Teorema de Varignon.}{13}{}%
+\contentsline {section}{\numberline {1.53}39. Teorema de cíclico.}{13}{}%
+\contentsline {section}{\numberline {1.54}40. Teorema de Ptolomeo.}{13}{}%
+\contentsline {section}{\numberline {1.55}41. Teorema de Simson.}{13}{}%
+\contentsline {section}{\numberline {1.56}42. Teorema extendido de Ptolomeo.}{13}{}%
+\contentsline {section}{\numberline {1.57}43. Teorema de Brahmagupta.}{13}{}%
+\contentsline {section}{\numberline {1.58}44. Teorema.}{13}{}%
+\contentsline {section}{\numberline {1.59}45. Teorema de Pitot.}{14}{}%
+\contentsline {section}{\numberline {1.60}46. Teorema de Brahmagupta.}{14}{}%
+\contentsline {section}{\numberline {1.61}47. Teorema del Punto de Miquel.}{14}{}%
+\contentsline {section}{\numberline {1.62}48. Teorema de Gergonne.}{14}{}%
+\contentsline {section}{\numberline {1.63}49. Teorema de Nagel.}{14}{}%
+\contentsline {section}{\numberline {1.64}50. Teorema de Blanchet.}{14}{}%
+\contentsline {section}{\numberline {1.65}51. Teorema de la Mariposa.}{14}{}%
+\contentsline {section}{\numberline {1.66}52. Teorema de Viviani.}{14}{}%
+\contentsline {section}{\numberline {1.67}53. Teorema de Vecten.}{15}{}%
+\contentsline {section}{\numberline {1.68}54. Teorema de Van Aubel.}{15}{}%
+\contentsline {section}{\numberline {1.69}55. Teorema de la cuaterna armónica.}{15}{}%
+\contentsline {section}{\numberline {1.70}56. Teorema del punto cicloceviano conjugado.}{15}{}%
+\contentsline {section}{\numberline {1.71}57. Teorema de Monge.}{15}{}%
+\contentsline {section}{\numberline {1.72}58. Teorema del Hexágono Místico de Pascal.}{15}{}%
+\contentsline {section}{\numberline {1.73}59. Teorema de los círculos de Jhonson.}{15}{}%
+\contentsline {section}{\numberline {1.74}60. Teorema de Bevan.}{16}{}%
+\contentsline {section}{\numberline {1.75}61. Teorema de Brocard.}{16}{}%
+\contentsline {section}{\numberline {1.76}62. Teorema de Adam.}{16}{}%
+\contentsline {section}{\numberline {1.77}63. Teorema de la Hire.}{16}{}%

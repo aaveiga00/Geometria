@@ -1,21 +1,22 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.7)  9 NOV 2020 21:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.7)  25 FEB 2021 22:50
 entering extended mode
-**"c:/Users/chris/OneDrive/Documentos/Latex/Geometria/Teoremas de Geometría.tex"
-("c:/Users/chris/OneDrive/Documentos/Latex/Geometria/Teoremas de Geometría.tex"
+**"c:/Users/chris/OneDrive/Documentos/Latex/Proyecto Geometria/Geometria/Teoremas de Geometría.tex"
+("c:/Users/chris/OneDrive/Documentos/Latex/Proyecto Geometria/Geometria/Teoremas de Geometría.tex"
 LaTeX2e <2020-10-01> patch level 2
-L3 programming layer <2020-10-27> xparse <2020-03-03> ("C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
-Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-("C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
-File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+L3 programming layer <2020-10-27> xparse <2020-03-03> ("C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls"
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+("C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\bk12.clo"
+File: bk12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
 \c@part=\count175
-\c@section=\count176
-\c@subsection=\count177
-\c@subsubsection=\count178
-\c@paragraph=\count179
-\c@subparagraph=\count180
-\c@figure=\count181
-\c@table=\count182
+\c@chapter=\count176
+\c@section=\count177
+\c@subsection=\count178
+\c@subsubsection=\count179
+\c@paragraph=\count180
+\c@subparagraph=\count181
+\c@figure=\count182
+\c@table=\count183
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
@@ -29,9 +30,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  ("C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count183
-\Gm@cntv=\count184
-\c@Gm@tempcnt=\count185
+\Gm@cnth=\count184
+\Gm@cntv=\count185
+\c@Gm@tempcnt=\count186
 \Gm@bindingoffset=\dimen139
 \Gm@wd@mp=\dimen140
 \Gm@odd@mp=\dimen141
@@ -75,13 +76,13 @@ Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 Package: babel 2020/10/27 3.51 The Babel package
  ("C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
 File: babel.def 2020/10/27 3.51 Babel common definitions
-\babel@savecnt=\count186
+\babel@savecnt=\count187
 \U@D=\dimen149
 \l@babelnohyphens=\language79
  ("C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
 \bbl@readstream=\read2
 )
-\bbl@dirlevel=\count187
+\bbl@dirlevel=\count188
 
 *************************************
 * Local config file bblopts.cfg used
@@ -91,7 +92,7 @@ File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of 
 ) ("C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\spanish.ldf"
 Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
 \es@quottoks=\toks19
-\es@quotdepth=\count188
+\es@quotdepth=\count189
 Package babel Info: Making " an active character on input line 561.
 Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
@@ -113,13 +114,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 ) ("C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count189
+\inf@bad=\count190
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count190
-\leftroot@=\count191
+\uproot@=\count191
+\leftroot@=\count192
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count192
-\DOTSCASE@=\count193
+\classnum@=\count193
+\DOTSCASE@=\count194
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -128,15 +129,15 @@ LaTeX Info: Redefining \cdots on input line 620.
 \big@size=\dimen152
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count194
-\c@MaxMatrixCols=\count195
+\macc@depth=\count195
+\c@MaxMatrixCols=\count196
 \dotsspace@=\muskip16
-\c@parentequation=\count196
-\dspbrk@lvl=\count197
+\c@parentequation=\count197
+\dspbrk@lvl=\count198
 \tag@help=\toks21
-\row@=\count198
-\column@=\count199
-\maxfields@=\count266
+\row@=\count199
+\column@=\count266
+\maxfields@=\count267
 \andhelp@=\toks22
 \eqnshift@=\dimen153
 \alignsep@=\dimen154
@@ -161,28 +162,28 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) ("C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdftex.def"
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count267
+\l__kernel_color_stack_int=\count268
 \l__pdf_internal_box=\box49
-) ("c:/Users\chris\OneDrive\Documentos\Latex\Geometria\build\Teoremas de Geometría.aux"
+) ("c:/Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Teoremas de Geometría.aux"
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
 \openout1 = `"Teoremas de Geometría.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -191,7 +192,7 @@ LaTeX Font Info:    ... okay on input line 12.
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
+* modes: twoside 
 * h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
 * v-part:(T,H,B)=(71.13188pt, 688.5567pt, 85.35826pt)
 * \paperwidth=597.50787pt
@@ -200,136 +201,170 @@ LaTeX Font Info:    ... okay on input line 12.
 * \textheight=688.5567pt
 * \oddsidemargin=-15.36449pt
 * \evensidemargin=-15.36449pt
-* \topmargin=-38.1381pt
+* \topmargin=-33.0119pt
 * \headheight=12.0pt
-* \headsep=25.0pt
+* \headsep=19.8738pt
 * \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=35.0pt
-* \marginparsep=10.0pt
+* \marginparwidth=88.0pt
+* \marginparsep=7.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
+* \@twosidetrue
+* \@mparswitchtrue
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 ("C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count268
+\scratchcounter=\count269
 \scratchdimen=\dimen159
 \scratchbox=\box50
-\nofMPsegments=\count269
-\nofMParguments=\count270
+\nofMPsegments=\count270
+\nofMParguments=\count271
 \everyMPshowfont=\toks25
-\MPscratchCnt=\count271
+\MPscratchCnt=\count272
 \MPscratchDim=\dimen160
-\MPnumerator=\count272
-\makeMPintoPDFobject=\count273
+\MPnumerator=\count273
+\makeMPintoPDFobject=\count274
 \everyMPtoPDFconversion=\toks26
 ) ("C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 )
-LaTeX Info: Redefining \. on input line 12.
-LaTeX Info: Redefining \% on input line 12.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 24.
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+<Imagenes/image001.png, id=1, 309.40594pt x 164.11313pt>
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 21.
+(pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
  ("C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
  ("C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<Imagenes/thales.png, id=1, 299.34677pt x 247.20769pt>
-File: Imagenes/thales.png Graphic file (type png)
-<use Imagenes/thales.png>
-Package pdftex.def Info: Imagenes/thales.png  used on input line 39.
-(pdftex.def)             Requested size: 134.7048pt x 111.24242pt.
-<Imagenes/image001.png, id=3, 309.40594pt x 164.11313pt>
-File: Imagenes/image001.png Graphic file (type png)
-<use Imagenes/image001.png>
-Package pdftex.def Info: Imagenes/image001.png  used on input line 41.
-(pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 45.3782pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[1{C:/Users/chris/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+[1{C:/Users/chris/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Imagenes/image001.png>]
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 21.
+(pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
+ [2
 
- <./Imagenes/image001.png> <./Imagenes/thales.png>]
+
+] ("c:/Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Teoremas de Geometría.toc"
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [3])
+\tf@toc=\write3
+\openout3 = `"Teoremas de Geometría.toc"'.
+
 File: Imagenes/image001.png Graphic file (type png)
 <use Imagenes/image001.png>
-Package pdftex.def Info: Imagenes/image001.png  used on input line 66.
-(pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
- [2]
-File: Imagenes/image001.png Graphic file (type png)
-<use Imagenes/image001.png>
-Package pdftex.def Info: Imagenes/image001.png  used on input line 86.
-(pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
- [3]
-File: Imagenes/image001.png Graphic file (type png)
-<use Imagenes/image001.png>
-Package pdftex.def Info: Imagenes/image001.png  used on input line 102.
+Package pdftex.def Info: Imagenes/image001.png  used on input line 23.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
  [4]
-<Imagenes/stewart.png, id=25, 295.77167pt x 182.51521pt>
+Cap\'{\i }tulo 1.
+[5
+
+]
+<Imagenes/thales.png, id=25, 299.34677pt x 247.20769pt>
+File: Imagenes/thales.png Graphic file (type png)
+<use Imagenes/thales.png>
+Package pdftex.def Info: Imagenes/thales.png  used on input line 40.
+(pdftex.def)             Requested size: 134.7048pt x 111.24242pt.
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 42.
+(pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
+ [6 <./Imagenes/thales.png>]
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 63.
+(pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
+ [7]
+Overfull \hbox (9.0117pt too wide) in paragraph at lines 63--63
+[]\OT1/cmr/bx/n/17.28 10.2. Teo-re-ma de la me-di-da del angu-lo semi-inscrito. 
+ []
+
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 81.
+(pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
+[8]
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 97.
+(pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
+ [9]
+<Imagenes/stewart.png, id=41, 295.77167pt x 182.51521pt>
 File: Imagenes/stewart.png Graphic file (type png)
 <use Imagenes/stewart.png>
-Package pdftex.def Info: Imagenes/stewart.png  used on input line 111.
+Package pdftex.def Info: Imagenes/stewart.png  used on input line 112.
 (pdftex.def)             Requested size: 177.46436pt x 109.50996pt.
 File: Imagenes/image001.png Graphic file (type png)
 <use Imagenes/image001.png>
-Package pdftex.def Info: Imagenes/image001.png  used on input line 122.
+Package pdftex.def Info: Imagenes/image001.png  used on input line 113.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
- [5 <./Imagenes/stewart.png>]
+ [10]
 File: Imagenes/image001.png Graphic file (type png)
 <use Imagenes/image001.png>
-Package pdftex.def Info: Imagenes/image001.png  used on input line 141.
+Package pdftex.def Info: Imagenes/image001.png  used on input line 133.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
- [6]
+ [11 <./Imagenes/stewart.png>]
 File: Imagenes/image001.png Graphic file (type png)
 <use Imagenes/image001.png>
-Package pdftex.def Info: Imagenes/image001.png  used on input line 165.
+Package pdftex.def Info: Imagenes/image001.png  used on input line 154.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
- [7]
+ [12]
 File: Imagenes/image001.png Graphic file (type png)
 <use Imagenes/image001.png>
-Package pdftex.def Info: Imagenes/image001.png  used on input line 183.
+Package pdftex.def Info: Imagenes/image001.png  used on input line 174.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
- [8]
+ [13]
 File: Imagenes/image001.png Graphic file (type png)
 <use Imagenes/image001.png>
-Package pdftex.def Info: Imagenes/image001.png  used on input line 201.
+Package pdftex.def Info: Imagenes/image001.png  used on input line 191.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
- [9]
+ [14]
 File: Imagenes/image001.png Graphic file (type png)
 <use Imagenes/image001.png>
-Package pdftex.def Info: Imagenes/image001.png  used on input line 212.
+Package pdftex.def Info: Imagenes/image001.png  used on input line 206.
 (pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
- [10] ("c:/Users\chris\OneDrive\Documentos\Latex\Geometria\build\Teoremas de Geometría.aux"
+ [15]
+File: Imagenes/image001.png Graphic file (type png)
+<use Imagenes/image001.png>
+Package pdftex.def Info: Imagenes/image001.png  used on input line 213.
+(pdftex.def)             Requested size: 77.35129pt x 41.02817pt.
+ [16] ("c:/Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Teoremas de Geometría.aux"
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 4171 strings out of 479799
- 58445 string characters out of 2867787
- 356380 words of memory out of 3000000
- 21121 multiletter control sequences out of 15000+200000
- 543253 words of font info for 61 fonts, out of 3000000 for 9000
+ 4195 strings out of 479799
+ 59100 string characters out of 2867787
+ 362856 words of memory out of 3000000
+ 21141 multiletter control sequences out of 15000+200000
+ 542907 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,16n,72p,569b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 66i,16n,72p,588b,416s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on "c:/Users\chris\OneDrive\Documentos\Latex\Geometria\build\Teoremas de Geometría.pdf" (10 pages, 288511 bytes).
+Output written on "c:/Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Teoremas de Geometría.pdf" (16 pages, 297720 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
+ 96 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
