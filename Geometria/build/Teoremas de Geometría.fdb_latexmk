@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1614387747 "c:/Users/chris/OneDrive/Documentos/Latex/Proyecto Geometria/Geometria/Teoremas de Geometría.tex" "c:/Users/chris/OneDrive/Documentos/Latex/Proyecto Geometria/Geometria/build/Teoremas de Geometría.pdf" "Teoremas de Geometría" 1614387752
+["pdflatex"] 1614458333 "c:/Users/chris/OneDrive/Documentos/Latex/Proyecto Geometria/Geometria/Teoremas de Geometría.tex" "c:/Users/chris/OneDrive/Documentos/Latex/Proyecto Geometria/Geometria/build/Teoremas de Geometría.pdf" "Teoremas de Geometría" 1614458336
   "C:/Users/chris/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1604797069 10296296 55c4040dcc084236c781dfc49d0f02fe ""
   "C:/Users/chris/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1604807376 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -17,6 +17,7 @@
   "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr17.tfm" 1136765053 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr6.tfm" 1136765053 1300 b62933e007d01cfd073f79b963c01526 ""
   "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr8.tfm" 1136765053 1292 21c1c5bfeaebccffdb478fd231a0997d ""
+  "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsl12.tfm" 1136765053 1504 f280e6069e577ca4a981806c471fe65c ""
   "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
@@ -26,6 +27,7 @@
   "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1247596666 35469 dcf3a5f2fc1862f5952e3ee5eb1d98c4 ""
   "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 39f0f9e62e84beb801509898a605dbd5 ""
+  "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb" 1247596666 34586 5a65dc15601f9c74fe3fb3f37b3b8b6f ""
   "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1247596667 32626 5abc8bb2f28aa647d4c70f8ea38cc0d3 ""
   "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb" 1247596673 31764 459c573c03a4949a528c2cc7f557e217 ""
@@ -60,11 +62,10 @@
   "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/keyval.sty" 1601745126 2677 e3b24ff953e5b58d924f163d25380312 ""
   "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/trig.sty" 1601745126 4093 d7fa7d81d2870d509d25b17d0245e735 ""
   "C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3backend/l3backend-pdftex.def" 1600956116 23704 02c466ff883953a445c97e55638005fc ""
-  "Imagenes/image001.png" 1572586466 99317 3f95257d164ba8ee113fcb946432581b ""
   "Imagenes/stewart.png" 1596309696 47780 6613be3cc848d5a37825f45fbbb63889 ""
   "Imagenes/thales.png" 1597103898 37626 1373e750d0b4cf3c1dea9a5b275eaaf4 ""
-  "c:/Users/chris/OneDrive/Documentos/Latex/Proyecto Geometria/Geometria/Teoremas de Geometría.tex" 1614387746 16453 767ca64a835f03a53d17a538c79d9337 ""
-  "c:/Users/chris/OneDrive/Documentos/Latex/Proyecto Geometria/Geometria/build/Teoremas de Geometría.aux" 1614387752 9143 f6e7cefe38dd342f337114889cd1805e ""
+  "c:/Users/chris/OneDrive/Documentos/Latex/Proyecto Geometria/Geometria/Teoremas de Geometría.tex" 1614458328 16483 9c01ee4e49f3e01238ab733d681b4b2c ""
+  "c:/Users/chris/OneDrive/Documentos/Latex/Proyecto Geometria/Geometria/build/Teoremas de Geometría.aux" 1614458336 9132 a9b846250a0e529b29f48a4766326796 ""
   (generated)
   "c:/Users/chris/OneDrive/Documentos/Latex/Proyecto Geometria/Geometria/build/Teoremas de Geometría.pdf"
   "c:/Users/chris/OneDrive/Documentos/Latex/Proyecto Geometria/Geometria/build/Teoremas de Geometría.log"
