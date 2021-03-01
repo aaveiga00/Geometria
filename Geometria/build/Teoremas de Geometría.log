@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.7)  27 FEB 2021 15:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.7)  1 MAR 2021 16:59
 entering extended mode
 **"c:/Users/chris/OneDrive/Documentos/Latex/Proyecto Geometria/Geometria/Teoremas de Geometría.tex"
 ("c:/Users/chris/OneDrive/Documentos/Latex/Proyecto Geometria/Geometria/Teoremas de Geometría.tex"
@@ -262,61 +262,64 @@ Cap\'{\i }tulo 1.
 <Imagenes/thales.png, id=14, 299.34677pt x 247.20769pt>
 File: Imagenes/thales.png Graphic file (type png)
 <use Imagenes/thales.png>
-Package pdftex.def Info: Imagenes/thales.png  used on input line 38.
+Package pdftex.def Info: Imagenes/thales.png  used on input line 40.
 (pdftex.def)             Requested size: 134.7048pt x 111.24242pt.
 [3
 
  <./Imagenes/thales.png>]
-LaTeX Info: Redefining \. on input line 61.
-LaTeX Info: Redefining \% on input line 61.
+LaTeX Info: Redefining \. on input line 63.
+LaTeX Info: Redefining \% on input line 63.
  [4]
-LaTeX Info: Redefining \. on input line 76.
-LaTeX Info: Redefining \% on input line 76.
+LaTeX Info: Redefining \. on input line 78.
+LaTeX Info: Redefining \% on input line 78.
  [5]
 LaTeX Info: Redefining \. on input line 93.
 LaTeX Info: Redefining \% on input line 93.
  [6]
-<Imagenes/stewart.png, id=31, 295.77167pt x 182.51521pt>
+LaTeX Info: Redefining \. on input line 106.
+LaTeX Info: Redefining \% on input line 106.
+ [7]
+<Imagenes/stewart.png, id=35, 295.77167pt x 182.51521pt>
 File: Imagenes/stewart.png Graphic file (type png)
 <use Imagenes/stewart.png>
-Package pdftex.def Info: Imagenes/stewart.png  used on input line 110.
+Package pdftex.def Info: Imagenes/stewart.png  used on input line 112.
 (pdftex.def)             Requested size: 177.46436pt x 109.50996pt.
-LaTeX Info: Redefining \. on input line 111.
-LaTeX Info: Redefining \% on input line 111.
- [7]
-LaTeX Info: Redefining \. on input line 129.
-LaTeX Info: Redefining \% on input line 129.
+LaTeX Info: Redefining \. on input line 123.
+LaTeX Info: Redefining \% on input line 123.
  [8 <./Imagenes/stewart.png>]
-LaTeX Info: Redefining \. on input line 150.
-LaTeX Info: Redefining \% on input line 150.
+LaTeX Info: Redefining \. on input line 140.
+LaTeX Info: Redefining \% on input line 140.
  [9]
-LaTeX Info: Redefining \. on input line 170.
-LaTeX Info: Redefining \% on input line 170.
+LaTeX Info: Redefining \. on input line 156.
+LaTeX Info: Redefining \% on input line 156.
  [10]
-LaTeX Info: Redefining \. on input line 185.
-LaTeX Info: Redefining \% on input line 185.
+LaTeX Info: Redefining \. on input line 174.
+LaTeX Info: Redefining \% on input line 174.
  [11]
-LaTeX Info: Redefining \. on input line 201.
-LaTeX Info: Redefining \% on input line 201.
+LaTeX Info: Redefining \. on input line 188.
+LaTeX Info: Redefining \% on input line 188.
  [12]
-LaTeX Info: Redefining \. on input line 210.
-LaTeX Info: Redefining \% on input line 210.
- [13] ("c:/Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Teoremas de Geometría.aux"
+LaTeX Info: Redefining \. on input line 203.
+LaTeX Info: Redefining \% on input line 203.
+ [13]
+LaTeX Info: Redefining \. on input line 208.
+LaTeX Info: Redefining \% on input line 208.
+ [14] ("c:/Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Teoremas de Geometría.aux"
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 4198 strings out of 479799
- 59078 string characters out of 2867787
- 360995 words of memory out of 3000000
- 21142 multiletter control sequences out of 15000+200000
- 543259 words of font info for 60 fonts, out of 3000000 for 9000
+ 4200 strings out of 479799
+ 59099 string characters out of 2867787
+ 359995 words of memory out of 3000000
+ 21143 multiletter control sequences out of 15000+200000
+ 543606 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,8n,72p,588b,419s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on "c:/Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Teoremas de Geometría.pdf" (13 pages, 202781 bytes).
+ 66i,8n,72p,588b,437s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/chris/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on "c:/Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Teoremas de Geometría.pdf" (14 pages, 212090 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
+ 97 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
