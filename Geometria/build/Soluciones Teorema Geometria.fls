@@ -1,7 +1,7 @@
 PWD c:\Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria
 INPUT C:\Users\chris\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\Teoremas de Geometría.tex
-OUTPUT c:\Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Teoremas de Geometría.log
+INPUT c:\Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\Soluciones Teorema Geometria.tex
+OUTPUT c:\Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Soluciones Teorema Geometria.log
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\book.cls
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\book.cls
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\book.cls
@@ -221,10 +221,10 @@ INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3bac
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdftex.def
-INPUT c:\Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Teoremas de Geometría.aux
-INPUT c:\Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Teoremas de Geometría.aux
-INPUT c:\Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Teoremas de Geometría.aux
-OUTPUT c:\Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Teoremas de Geometría.aux
+INPUT c:\Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Soluciones Teorema Geometria.aux
+INPUT c:\Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Soluciones Teorema Geometria.aux
+INPUT c:\Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Soluciones Teorema Geometria.aux
+OUTPUT c:\Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Soluciones Teorema Geometria.aux
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
@@ -239,33 +239,8 @@ INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\ep
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss12.tfm
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-OUTPUT c:\Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Teoremas de Geometría.pdf
-INPUT C:\Users\chris\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
-INPUT c:\Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Teoremas de Geometría.toc
-INPUT c:\Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Teoremas de Geometría.toc
-INPUT c:\Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Teoremas de Geometría.toc
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
@@ -278,39 +253,25 @@ INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-OUTPUT c:\Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Teoremas de Geometría.toc
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsl12.tfm
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
-INPUT .\Imagenes\thales.png
-INPUT .\Imagenes\thales.png
-INPUT Imagenes\thales.png
-INPUT .\Imagenes\thales.png
-INPUT .\Imagenes\thales.png
-INPUT .\Imagenes\thales.png
-INPUT .\Imagenes\thales.png
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT .\Imagenes\stewart.png
-INPUT .\Imagenes\stewart.png
-INPUT Imagenes\stewart.png
-INPUT .\Imagenes\stewart.png
-INPUT .\Imagenes\stewart.png
-INPUT .\Imagenes\stewart.png
-INPUT .\Imagenes\stewart.png
 INPUT .\Imagenes\demo1.png
 INPUT .\Imagenes\demo1.png
 INPUT Imagenes\demo1.png
 INPUT .\Imagenes\demo1.png
+OUTPUT c:\Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Soluciones Teorema Geometria.pdf
 INPUT .\Imagenes\demo1.png
 INPUT .\Imagenes\demo1.png
 INPUT .\Imagenes\demo1.png
@@ -321,6 +282,14 @@ INPUT .\Imagenes\demo2.png
 INPUT .\Imagenes\demo2.png
 INPUT .\Imagenes\demo2.png
 INPUT .\Imagenes\demo2.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT C:\Users\chris\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT .\Imagenes\demo3.png
 INPUT .\Imagenes\demo3.png
 INPUT Imagenes\demo3.png
@@ -328,11 +297,388 @@ INPUT .\Imagenes\demo3.png
 INPUT .\Imagenes\demo3.png
 INPUT .\Imagenes\demo3.png
 INPUT .\Imagenes\demo3.png
-INPUT .\Imagenes\demo3.png
-INPUT .\Imagenes\demo3.png
-INPUT Imagenes\demo3.png
-INPUT .\Imagenes\demo3.png
-INPUT c:\Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Teoremas de Geometría.aux
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\thales 1.png
+INPUT .\Imagenes\thales 1.png
+INPUT Imagenes\thales 1.png
+INPUT .\Imagenes\thales 1.png
+INPUT .\Imagenes\thales 1.png
+INPUT .\Imagenes\thales 1.png
+INPUT .\Imagenes\thales 1.png
+INPUT .\Imagenes\thales1.1.png
+INPUT .\Imagenes\thales1.1.png
+INPUT Imagenes\thales1.1.png
+INPUT .\Imagenes\thales1.1.png
+INPUT .\Imagenes\thales1.1.png
+INPUT .\Imagenes\thales1.1.png
+INPUT .\Imagenes\thales1.1.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\thales.png
+INPUT .\Imagenes\thales.png
+INPUT Imagenes\thales.png
+INPUT .\Imagenes\thales.png
+INPUT .\Imagenes\thales.png
+INPUT .\Imagenes\thales.png
+INPUT .\Imagenes\thales.png
+INPUT .\Imagenes\thales2.png
+INPUT .\Imagenes\thales2.png
+INPUT Imagenes\thales2.png
+INPUT .\Imagenes\thales2.png
+INPUT .\Imagenes\thales2.png
+INPUT .\Imagenes\thales2.png
+INPUT .\Imagenes\thales2.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT .\Imagenes\semejanza.png
+INPUT .\Imagenes\semejanza.png
+INPUT Imagenes\semejanza.png
+INPUT .\Imagenes\semejanza.png
+INPUT .\Imagenes\semejanza.png
+INPUT .\Imagenes\semejanza.png
+INPUT .\Imagenes\semejanza.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\semejanza.png
+INPUT .\Imagenes\semejanza.png
+INPUT Imagenes\semejanza.png
+INPUT .\Imagenes\semejanza.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\semejanza.png
+INPUT .\Imagenes\semejanza.png
+INPUT Imagenes\semejanza.png
+INPUT .\Imagenes\semejanza.png
+INPUT .\Imagenes\pitagoras.png
+INPUT .\Imagenes\pitagoras.png
+INPUT Imagenes\pitagoras.png
+INPUT .\Imagenes\pitagoras.png
+INPUT .\Imagenes\pitagoras.png
+INPUT .\Imagenes\pitagoras.png
+INPUT .\Imagenes\pitagoras.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\pitagoras.png
+INPUT .\Imagenes\pitagoras.png
+INPUT Imagenes\pitagoras.png
+INPUT .\Imagenes\pitagoras.png
+INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\medianas.png
+INPUT .\Imagenes\medianas.png
+INPUT Imagenes\medianas.png
+INPUT .\Imagenes\medianas.png
+INPUT .\Imagenes\medianas.png
+INPUT .\Imagenes\medianas.png
+INPUT .\Imagenes\medianas.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\bisectriz.png
+INPUT .\Imagenes\bisectriz.png
+INPUT Imagenes\bisectriz.png
+INPUT .\Imagenes\bisectriz.png
+INPUT .\Imagenes\bisectriz.png
+INPUT .\Imagenes\bisectriz.png
+INPUT .\Imagenes\bisectriz.png
+INPUT .\Imagenes\bisectriz1.png
+INPUT .\Imagenes\bisectriz1.png
+INPUT Imagenes\bisectriz1.png
+INPUT .\Imagenes\bisectriz1.png
+INPUT .\Imagenes\bisectriz1.png
+INPUT .\Imagenes\bisectriz1.png
+INPUT .\Imagenes\bisectriz1.png
+INPUT .\Imagenes\mediatriz.png
+INPUT .\Imagenes\mediatriz.png
+INPUT Imagenes\mediatriz.png
+INPUT .\Imagenes\mediatriz.png
+INPUT .\Imagenes\mediatriz.png
+INPUT .\Imagenes\mediatriz.png
+INPUT .\Imagenes\mediatriz.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\alturas.png
+INPUT .\Imagenes\alturas.png
+INPUT Imagenes\alturas.png
+INPUT .\Imagenes\alturas.png
+INPUT .\Imagenes\alturas.png
+INPUT .\Imagenes\alturas.png
+INPUT .\Imagenes\alturas.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\circulo.png
+INPUT .\Imagenes\circulo.png
+INPUT Imagenes\circulo.png
+INPUT .\Imagenes\circulo.png
+INPUT .\Imagenes\circulo.png
+INPUT .\Imagenes\circulo.png
+INPUT .\Imagenes\circulo.png
+INPUT .\Imagenes\circulo 1.png
+INPUT .\Imagenes\circulo 1.png
+INPUT Imagenes\circulo 1.png
+INPUT .\Imagenes\circulo 1.png
+INPUT .\Imagenes\circulo 1.png
+INPUT .\Imagenes\circulo 1.png
+INPUT .\Imagenes\circulo 1.png
+INPUT .\Imagenes\circulo 2.png
+INPUT .\Imagenes\circulo 2.png
+INPUT Imagenes\circulo 2.png
+INPUT .\Imagenes\circulo 2.png
+INPUT .\Imagenes\circulo 2.png
+INPUT .\Imagenes\circulo 2.png
+INPUT .\Imagenes\circulo 2.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\circulo 3.png
+INPUT .\Imagenes\circulo 3.png
+INPUT Imagenes\circulo 3.png
+INPUT .\Imagenes\circulo 3.png
+INPUT .\Imagenes\circulo 3.png
+INPUT .\Imagenes\circulo 3.png
+INPUT .\Imagenes\circulo 3.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\ciclico.png
+INPUT .\Imagenes\ciclico.png
+INPUT Imagenes\ciclico.png
+INPUT .\Imagenes\ciclico.png
+INPUT .\Imagenes\ciclico.png
+INPUT .\Imagenes\ciclico.png
+INPUT .\Imagenes\ciclico.png
+INPUT .\Imagenes\ciclico1.png
+INPUT .\Imagenes\ciclico1.png
+INPUT Imagenes\ciclico1.png
+INPUT .\Imagenes\ciclico1.png
+INPUT .\Imagenes\ciclico1.png
+INPUT .\Imagenes\ciclico1.png
+INPUT .\Imagenes\ciclico1.png
+INPUT .\Imagenes\ciclico 2.png
+INPUT .\Imagenes\ciclico 2.png
+INPUT Imagenes\ciclico 2.png
+INPUT .\Imagenes\ciclico 2.png
+INPUT .\Imagenes\ciclico 2.png
+INPUT .\Imagenes\ciclico 2.png
+INPUT .\Imagenes\ciclico 2.png
+INPUT .\Imagenes\ciclico 3.png
+INPUT .\Imagenes\ciclico 3.png
+INPUT Imagenes\ciclico 3.png
+INPUT .\Imagenes\ciclico 3.png
+INPUT .\Imagenes\ciclico 3.png
+INPUT .\Imagenes\ciclico 3.png
+INPUT .\Imagenes\ciclico 3.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\paralelogramo.png
+INPUT .\Imagenes\paralelogramo.png
+INPUT Imagenes\paralelogramo.png
+INPUT .\Imagenes\paralelogramo.png
+INPUT .\Imagenes\paralelogramo.png
+INPUT .\Imagenes\paralelogramo.png
+INPUT .\Imagenes\paralelogramo.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\recta_euler.png
+INPUT .\Imagenes\recta_euler.png
+INPUT Imagenes\recta_euler.png
+INPUT .\Imagenes\recta_euler.png
+INPUT .\Imagenes\recta_euler.png
+INPUT .\Imagenes\recta_euler.png
+INPUT .\Imagenes\recta_euler.png
+INPUT .\Imagenes\circunferencia nueve.png
+INPUT .\Imagenes\circunferencia nueve.png
+INPUT Imagenes\circunferencia nueve.png
+INPUT .\Imagenes\circunferencia nueve.png
+INPUT .\Imagenes\circunferencia nueve.png
+INPUT .\Imagenes\circunferencia nueve.png
+INPUT .\Imagenes\circunferencia nueve.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\Ceva.png
+INPUT .\Imagenes\Ceva.png
+INPUT Imagenes\Ceva.png
+INPUT .\Imagenes\Ceva.png
+INPUT .\Imagenes\Ceva.png
+INPUT .\Imagenes\Ceva.png
+INPUT .\Imagenes\Ceva.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\Menelao1.png
+INPUT .\Imagenes\Menelao1.png
+INPUT Imagenes\Menelao1.png
+INPUT .\Imagenes\Menelao1.png
+INPUT .\Imagenes\Menelao1.png
+INPUT .\Imagenes\Menelao1.png
+INPUT .\Imagenes\Menelao1.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\bisectriz_int.png
+INPUT .\Imagenes\bisectriz_int.png
+INPUT Imagenes\bisectriz_int.png
+INPUT .\Imagenes\bisectriz_int.png
+INPUT .\Imagenes\bisectriz_int.png
+INPUT .\Imagenes\bisectriz_int.png
+INPUT .\Imagenes\bisectriz_int.png
+INPUT .\Imagenes\bisectriz_ext.png
+INPUT .\Imagenes\bisectriz_ext.png
+INPUT Imagenes\bisectriz_ext.png
+INPUT .\Imagenes\bisectriz_ext.png
+INPUT .\Imagenes\bisectriz_ext.png
+INPUT .\Imagenes\bisectriz_ext.png
+INPUT .\Imagenes\bisectriz_ext.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\pappus.png
+INPUT .\Imagenes\pappus.png
+INPUT Imagenes\pappus.png
+INPUT .\Imagenes\pappus.png
+INPUT .\Imagenes\pappus.png
+INPUT .\Imagenes\pappus.png
+INPUT .\Imagenes\pappus.png
+INPUT .\Imagenes\pappus1.png
+INPUT .\Imagenes\pappus1.png
+INPUT Imagenes\pappus1.png
+INPUT .\Imagenes\pappus1.png
+INPUT .\Imagenes\pappus1.png
+INPUT .\Imagenes\pappus1.png
+INPUT .\Imagenes\pappus1.png
+INPUT .\Imagenes\pappus2.png
+INPUT .\Imagenes\pappus2.png
+INPUT Imagenes\pappus2.png
+INPUT .\Imagenes\pappus2.png
+INPUT .\Imagenes\pappus2.png
+INPUT .\Imagenes\pappus2.png
+INPUT .\Imagenes\pappus2.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\desargue.png
+INPUT .\Imagenes\desargue.png
+INPUT Imagenes\desargue.png
+INPUT .\Imagenes\desargue.png
+INPUT .\Imagenes\desargue.png
+INPUT .\Imagenes\desargue.png
+INPUT .\Imagenes\desargue.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\stewart.png
+INPUT .\Imagenes\stewart.png
+INPUT Imagenes\stewart.png
+INPUT .\Imagenes\stewart.png
+INPUT .\Imagenes\stewart.png
+INPUT .\Imagenes\stewart.png
+INPUT .\Imagenes\stewart.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT Imagenes\image001.png
+INPUT .\Imagenes\image001.png
+INPUT c:\Users\chris\OneDrive\Documentos\Latex\Proyecto Geometria\Geometria\build\Soluciones Teorema Geometria.aux
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
@@ -343,12 +689,12 @@ INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfon
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsl12.pfb
-INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsl12.pfb
+INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss12.pfb
+INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss12.pfb
+INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
+INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\chris\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
